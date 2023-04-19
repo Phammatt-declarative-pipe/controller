@@ -1,0 +1,4 @@
+variables:
+- team: Phammatt-declarative-pipe
+- admin-user: phammatt-admin
+- manager-user: phammatt
